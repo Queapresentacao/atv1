@@ -1,0 +1,23 @@
+.atv {
+	width: 20%;
+	color: #fff;
+	text-align: center;
+	background-color: #0b0101;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(2, 2, 2, 0.2);
+}
+.atividades {
+    border-bottom: 1px solid #eb00e3;
+    padding-left: 10%;
+}
+
+.quadrado:hover {
+	background-color: #00ed96;
+	color: #fff;
+}
+
+.toolBar {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
